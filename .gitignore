@@ -1,3 +1,10 @@
+node_modules/
+client/node_modules/
+client/build/
+serviceAccountKey.json
+package-lock.json
+client/package-lock.json
+.env
 google-cloud-key.json
 client/src/components/CreateSoundBite/.env
 server.js
